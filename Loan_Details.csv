@@ -1,0 +1,51 @@
+customer_id,application_id,loan_term,loan_type,loan_amount,approval_status,interest_rate
+100,1,18,Home,64285.71428571428,Approved,12
+102,2,3,Personal,500000.0,Not Approved,18
+104,3,14,Education,10000.0,Approved,4
+106,4,8,Business,20000.0,Approved,6
+108,5,7,Education,30000.0,Under Review,17
+110,6,35,Personal,64285.71428571428,Under Review,10
+112,7,0,Education,50000.0,Approved,13
+114,8,33,Personal,20000.0,Not Approved,4
+116,9,23,Home,10000.0,Under Review,11
+118,10,12,Home,500000.0,Not Approved,13
+120,11,27,Personal,200000.0,Approved,3
+122,12,24,Business,30000.0,Under Review,7
+124,13,34,Business,10000.0,Not Approved,6
+126,14,31,Personal,10000.0,Not Approved,17
+128,15,25,Business,100000.0,Under Review,15
+130,16,8,Education,100000.0,Not Approved,3
+132,17,6,Home,100000.0,Approved,5
+134,18,21,Home,20000.0,Approved,17
+136,19,15,Home,100000.0,Not Approved,15
+138,20,17,Business,500000.0,Approved,1
+140,21,24,Personal,64285.71428571428,Under Review,12
+142,22,22,Personal,10000.0,Approved,5
+144,23,6,Education,50000.0,Approved,16
+146,24,29,Home,30000.0,Not Approved,6
+148,25,3,Home,100000.0,Not Approved,6
+150,26,27,Business,10000.0,Approved,14
+152,27,21,Business,100000.0,Approved,11
+154,28,19,Home,500000.0,Under Review,2
+156,29,30,Business,50000.0,Not Approved,10
+158,30,0,Education,30000.0,Not Approved,3
+160,31,22,Education,20000.0,Not Approved,6
+162,32,1,Business,500000.0,Not Approved,17
+164,33,34,Home,40000.0,Not Approved,18
+166,34,12,Business,200000.0,Not Approved,8
+168,35,35,Business,40000.0,Under Review,19
+170,36,10,Education,50000.0,Not Approved,6
+172,37,26,Personal,30000.0,Under Review,19
+174,38,22,Business,20000.0,Approved,14
+176,39,24,Home,20000.0,Under Review,5
+178,40,14,Education,10000.0,Under Review,7
+180,41,21,Business,64285.71428571428,Under Review,8
+182,42,11,Business,20000.0,Under Review,10
+184,43,27,Business,20000.0,Under Review,1
+186,44,10,Personal,64285.71428571428,Approved,13
+188,45,35,Personal,20000.0,Under Review,12
+190,46,27,Personal,200000.0,Not Approved,5
+192,47,7,Education,50000.0,Not Approved,14
+194,48,14,Education,200000.0,Not Approved,17
+196,49,15,Business,100000.0,Under Review,16
+198,50,32,Home,200000.0,Not Approved,11
